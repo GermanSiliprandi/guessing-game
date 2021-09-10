@@ -1,0 +1,1 @@
+This was the second game I made while learning python. I was trying to understand loops, statements and F-string Formatting.
